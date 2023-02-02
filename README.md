@@ -5,7 +5,7 @@
    <img align="left" alt="twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/https://linkedin.com/in/aquibmoin786/">
+<a href="https://linkedin.com/in/aquibmoin786/">
    <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <p/>
