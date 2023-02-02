@@ -13,10 +13,10 @@
 <br/>
 <p>
 
-- 🔭 I’m currently working on Software Developer
+- 🔭 I’m currently working as Software Developer
 - 🌱 I’m currently learning Typescript and Angular
 - 💬 Ask me about Angular, Typescript
-- 📫 How to reach me: [AquibMoin](https://twitter.com/https://twitter.com/aquibmoin786)
+- 📫 How to reach me: [AquibMoin](https://twitter.com/aquibmoin786)
 
 </p>
 
