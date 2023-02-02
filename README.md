@@ -1,7 +1,7 @@
 ### Hi there 👋, Aquib Moin
 <p>
 
-<a href="https://twitter.com//twitter.com/aquibmoin786">
+<a href="https://twitter.com/aquibmoin786">
    <img align="left" alt="twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
 </a>&nbsp;&nbsp;
 
