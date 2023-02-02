@@ -2,7 +2,7 @@
 <p>
 
 <a href="https://twitter.com/aquibmoin786">
-   <img align="left" alt="twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+   <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
 </a>&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/aquibmoin786/">
