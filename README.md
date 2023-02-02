@@ -1,4 +1,29 @@
 ### Hi there 👋, Aquib Moin
+<p>
+
+<a href="https://twitter.com/https://twitter.com/aquibmoin786">
+   <img align="left" alt="twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+</a>&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/https://linkedin.com/in/aquibmoin786/">
+   <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<p/>
+
+<br/>
+<p>
+
+- 🔭 I’m currently working on Software Developer
+- 🌱 I’m currently learning Typescript and Angular
+- 💬 Ask me about Angular, Typescript
+- 📫 How to reach me: [AquibMoin](https://twitter.com/https://twitter.com/aquibmoin786)
+
+</p>
+
+![Aquib Moin Github Stats](https://github-readme-stats.vercel.app/api?username=aquibmoin786&show_icons=true&include_all_commits=true&theme=radical)
+![Aquib Moin Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aquibmoin786&layout=compact&theme=radical)
+
+[![Aquib's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aquibmoin786&theme=github-compact)](https://github.com/aquibmoin786/github-readme-activity-graph)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aquibmoin786)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://linkedin.com/in/aquibmoin786/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/aquibmoin786)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/16081036/aquib-moin)  
