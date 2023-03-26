@@ -33,7 +33,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="25%">
 
 
 
@@ -50,31 +50,44 @@
 
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 ### Backend  
 <div align="center">  
 
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="C#" height="50" /></a>
 
 </div>
 
-</td><td valign="top" width="33%" height = "30%">
+</td><td valign="top" width="25%">
 
 ### Database  
 <div align="center">
   
-  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="50" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="50" /></a>
+  <a href="https://sqlite.org/index.html" target="_blank"><img style="margin: 10px" src="https://w7.pngwing.com/pngs/286/519/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-azure-sql-data-warehouse-logo-text-logo-microsoft-azure-thumbnail.png" alt="SQL" height="50" /></a>
   
-   <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="50" /></a>
+   <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" alt="MongoDB" height="50" /></a>
+  
 </div>
 
-</td> <td valign="top" width="33%"> 
+</td> 
+<td valign="top" width="25%"> 
 
 ### Others
 <div align="center">
+  <a href="https://github.com/aquibmoin786" target="_blank"><img style="margin: 10px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="50" />
+</a>
+  <a href="https://powerbi.microsoft.com/en-au/" target="_blank"><img style="margin: 10px" src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo-700x394.png" alt="PowerBI" height="50" />
+</a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+  <a href="https://azure.microsoft.com/en-us/products/active-directory" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/61320158/227795450-8c17f5b8-8740-43a2-8d12-53fa05f71f5e.png" alt="AzureAD" height="50" /></a>
+  <a href="https://www.postman.com/company/about-postman/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" /></a>
+  <a href="https://www.postman.com/company/about-postman/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/225px-Google_Apps_Script.svg.png" alt="AppScript" height="50" /></a>
+  
   </div>
   </td>
   </tr></table>
