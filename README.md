@@ -29,7 +29,7 @@
 
 </p>
 
-[![Aquib's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aquibmoin786&theme=github-compact)](https://github.com/aquibmoin786/github-readme-activity-graph)
+[![Aquib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aquibmoin786&theme=merko)](https://github.com/aquibmoin786/github-readme-activity-graph)
 
 
 ## My Skill Set  
@@ -93,6 +93,12 @@
   <br/>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aquibmoin786&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+# 📊GitHub Stats :
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aquibmoin786&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aquibmoin786&theme=tokyonight" />
+</p>
+
+<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aquibmoin786&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
 
 <br/>  
