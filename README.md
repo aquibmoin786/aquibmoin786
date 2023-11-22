@@ -22,9 +22,7 @@
 <br/>  
 <p>
 
-- 🔭 I’m currently working as Software Developer
-- 🌱 I’m currently learning Typescript and Angular
-- 💬 Ask me about Angular, Typescript
+- 🔭 I’m currently working as Database Developer & Software Developer Engineer
 - 📫 How to reach me: [AquibMoin](https://twitter.com/aquibmoin786)
 
 </p>
