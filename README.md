@@ -32,6 +32,28 @@
 
 </p>
 
+# Blog Posts
+
+## [AWS IoT Device Management](https://medium.com/@aquibmoin786/aws-iot-device-management-6bc79817be0b)
+
+<a href="https://medium.com/@aquibmoin786/aws-iot-device-management-6bc79817be0b" target="_blank">
+  <img src="https://miro.medium.com/v2/resize:fit:384/format:webp/0*5m0ZXsGH83ULszge" alt="AWS IoT Device Management" width="400px" />
+</a>
+
+## [AWS IoT Button for Home Automation](https://medium.com/@aquibmoin786/aws-iot-button-for-home-automation-9e11ac68f63c)
+
+<a href="https://medium.com/@aquibmoin786/aws-iot-button-for-home-automation-9e11ac68f63c" target="_blank">
+  <img src="https://miro.medium.com/v2/resize:fit:384/format:webp/0*bQNHvpSxw-_EeVQC" alt="AWS IoT Button for Home Automation" width="400px" />
+</a>
+
+## [PowerBI graphs integrate into a web app without requiring a login](https://medium.com/@aquibmoin786/powerbi-graphs-integrate-into-a-web-app-without-requiring-a-login-c15a7c978eba)
+
+<a href="https://medium.com/@aquibmoin786/powerbi-graphs-integrate-into-a-web-app-without-requiring-a-login-c15a7c978eba" target="_blank">
+  <img src="https://miro.medium.com/v2/resize:fit:384/format:webp/1*7VNFtdAUURtDuNvXwChHYg.png" alt="PowerBI graphs integrate into a web app without requiring a login" width="350px" />
+</a>
+<br/>
+
+## Github Activity
 [![Aquib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aquibmoin786&theme=merko)](https://github.com/aquibmoin786/github-readme-activity-graph)
 
 
@@ -61,6 +83,10 @@
 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="C#" height="50" /></a>
 
+<a href="https://nodejs.org/en/" target="_blank">
+  <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png" alt="Node.js" height="50" />
+</a>
+
 </div>
 
 </td><td valign="top" width="25%">
@@ -89,13 +115,19 @@
   <a href="https://azure.microsoft.com/en-us/products/active-directory" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/61320158/227795450-8c17f5b8-8740-43a2-8d12-53fa05f71f5e.png" alt="AzureAD" height="50" /></a>
   <a href="https://www.postman.com/company/about-postman/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" /></a>
   <a href="https://www.postman.com/company/about-postman/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/225px-Google_Apps_Script.svg.png" alt="AppScript" height="50" /></a>
+  <a href="https://docs.nestjs.com/" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" alt="NextJs" height="50" /></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/amazon_aws_logo_icon_145507.png" alt="AWS" height="50" /></a>
   
   </div>
   </td>
   </tr></table>
   <br/>
 
-## Github Stats  
+<br/>
+
+<br/>
+<br/>
+
 # 📊GitHub Stats :
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aquibmoin786&show_icons=true&theme=tokyonight" />
