@@ -34,6 +34,12 @@
 
 # Blog Posts
 
+## [AWS CloudHSM Implementation](https://medium.com/@aquibmoin786/aws-cloudhsm-implementation-e24c724259fa)
+
+<a href="https://medium.com/@aquibmoin786/aws-cloudhsm-implementation-e24c724259fa" target="_blank">
+  <img src="https://miro.medium.com/v2/resize:fit:786/format:webp/0*NE5huLoE2vTVHS4b" alt="AWS IoT Device Management" width="400px" />
+</a>
+
 ## [AWS IoT Device Management](https://medium.com/@aquibmoin786/aws-iot-device-management-6bc79817be0b)
 
 <a href="https://medium.com/@aquibmoin786/aws-iot-device-management-6bc79817be0b" target="_blank">
