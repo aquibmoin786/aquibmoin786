@@ -27,8 +27,8 @@
 <br/>  
 <p>
 
-- 🔭 I’m currently working as Database Developer & Software Developer Engineer
-- 📫 How to reach me: [AquibMoin](aquib@duramatertechnologies.com)
+- 🔭 Co-Founder at Dura Mater Technologies || Software Developer Engineer
+- 📫 How to reach me: [aquib@duramatertechnologies.com](mailto:aquib@duramatertechnologies.com)
 
 </p>
 
@@ -118,7 +118,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aquibmoin786&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aquibmoin786&theme=tokyonight" />
+<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aquibmoin786&theme=tokyonight" /> -->
 </p>
 
 <br/>
