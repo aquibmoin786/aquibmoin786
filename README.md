@@ -4,19 +4,19 @@
 ## Connect with me
 <div align="center">
 <a href="https://github.com/aquibmoin786" target="_blank">
-  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white;" alt="github" style="margin-bottom: 1px;" />
+  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 1px;" />
 </a>
 <a href="https://twitter.com/aquibmoin786" target="_blank">
-  <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/aquibmoin786" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white;" alt="linkedin" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/aquibmoin786" target="_blank">
-  <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white;" alt="facebook" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/aquib_moin?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
-  <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white;" alt="instagram" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
 </a>
 </div>  
 
@@ -27,7 +27,7 @@
 <br/>  
 <p>
 
-- 🔭 Co-Founder at Dura Mater Technologies || Software Developer Engineer
+- 🔭 I’m currently working as Database Developer & Software Developer Engineer
 - 📫 How to reach me: [aquib@duramatertechnologies.com](mailto:aquib@duramatertechnologies.com)
 
 </p>
@@ -118,7 +118,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aquibmoin786&show_icons=true&theme=tokyonight" />
-<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aquibmoin786&theme=tokyonight" /> -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aquibmoin786&theme=tokyonight" />
 </p>
 
 <br/>
