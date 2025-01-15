@@ -267,10 +267,10 @@
 </td></tr></table>
 <br/>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aquibmoin786&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aquibmoin786&theme=tokyonight" />
+<h2>&#x1f4c8; GitHub Stats</h2>
+<p align="left">
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aquibmoin786&theme=tokyonight" width="30%">
+  &nbsp;&nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aquibmoin786&theme=tokyonight" width="60%" />
 </p>
-
 <br/>
