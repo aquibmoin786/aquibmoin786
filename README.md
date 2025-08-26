@@ -242,7 +242,11 @@ I'm a developer passionate about open source, web development, and learning new 
 <br/>
 
 <h2>📊 GitHub Stats</h2>
-![](./profile-3d-contrib/profile-season-animate.svg)
+<div align="center">
+  <img src="./profile-3d-contrib/profile-season-animate.svg" 
+       alt="My 3D GitHub Contributions" 
+       style="width: 100%; max-width: 100%; height: auto; display: block;" />
+</div>
 <p align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aquibmoin786&theme=tokyonight" width="30%" />
   &nbsp;&nbsp;
