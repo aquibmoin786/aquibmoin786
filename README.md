@@ -6,8 +6,6 @@ I'm a developer passionate about open source, web development, and learning new 
 
 📊 GitHub Contributions:
 
-![](./profile-3d-contrib/profile-season-animate.svg)
-
 <div style="position: relative; text-align: center; margin-top: 20px;">
   <!-- Background Image (Optional: keep or replace) -->
   <img 
@@ -244,6 +242,7 @@ I'm a developer passionate about open source, web development, and learning new 
 <br/>
 
 <h2>📊 GitHub Stats</h2>
+![](./profile-3d-contrib/profile-season-animate.svg)
 <p align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aquibmoin786&theme=tokyonight" width="30%" />
   &nbsp;&nbsp;
