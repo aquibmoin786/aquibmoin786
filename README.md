@@ -164,13 +164,11 @@ I'm a passionate Full Stack Developer with expertise in blockchain technology, w
     <td align="center" width="50%">
       <h3>🎓 Master of Computer Applications</h3>
       <p><b>Central University of Haryana</b></p>
-      <p>📅 2018 - 2021</p>
       <p>📊 Grade: <b>First Class </b></p>
     </td>
     <td align="center" width="50%">
       <h3>🎓 Bachelor of Computer Applications</h3>
       <p><b>Birla Institute of Technology, Mesra</b></p>
-      <p>📅 2014 - 2017</p>
       <p>📊 Grade: <b>First Class with Distinction </b></p>
     </td>
   </tr>
