@@ -4,7 +4,7 @@
 
 # Hi, I'm Aquib Moin 👋
 
-### Master of Computer Applications | Full Stack Developer | Web3 Enthusiast
+### Full Stack Developer | Web3 Engineer | Co-Founder @ Dura Mater Technologies
 
 <p align="center">
 
@@ -32,7 +32,7 @@
 
 💻 Full Stack Developer building **scalable SaaS platforms and Web3 applications**
 
-🚀 Co-Founder at **Dura Mater Technologies**
+🚀 **Co-Founder — Dura Mater Technologies**
 
 ⚡ Focus Areas
 
@@ -60,7 +60,6 @@
 • Portfolio tracking
 
 Tech
-
 React Native • Web3.js • Ethers.js • Node.js
 
 ---
@@ -78,7 +77,6 @@ Features
 • Analytics dashboard
 
 Tech
-
 Next.js • Node.js • MongoDB • Tailwind
 
 ---
@@ -137,44 +135,24 @@ Birla Institute of Technology Mesra
 Secure multi-chain crypto wallet.
 
 Tech
-
 React Native • Web3.js • Node.js
 
 ---
 
 ### ❤️ Donor Management Platform
 
-Modern SaaS for NGOs.
+Modern SaaS platform for NGOs.
 
 Tech
-
 Next.js • Node.js • MongoDB
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aquibmoin786&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquibmoin786&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
 # 📈 GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aquibmoin786&theme=github-dark&hide_border=true"/>
-
----
-
-# 🐍 Contribution Snake
-
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/aquibmoin786/aquibmoin786/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aquibmoin786&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -184,7 +162,7 @@ Next.js • Node.js • MongoDB
 
 <p align="center">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 
 </p>
 
@@ -192,11 +170,11 @@ Next.js • Node.js • MongoDB
 
 # 🧠 Achievements
 
-🏆 AIR 23 — ICAR-JRF (Computer Applications & IT)
+🏆 **AIR 23 — ICAR-JRF (Computer Applications & IT)**
 
-📊 Integrated PowerBI dashboards into production systems
+📊 Integrated **PowerBI dashboards into production systems**
 
-❤️ Certificate from Delhi State AIDS Control Society
+❤️ Certificate from **Delhi State AIDS Control Society**
 
 ---
 
